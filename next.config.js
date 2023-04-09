@@ -10,4 +10,15 @@ plugins: [
   '~/plugins/fontawesome.js'
 ]
 
+buildModules: [
+  '@nuxtjs/style-resources',
+  '@nuxtjs/fontawesome'
+]
+
+fontawesome: {
+  icons: {
+    solid: true
+  }
+}
+
 module.exports = nextConfig
