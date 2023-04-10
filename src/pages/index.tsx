@@ -18,7 +18,11 @@ export default function Home() {
 
   return (
     <div className="h-screen flex flex-col items-center justify-center">
-      <img src="./logo-white.png" alt="logo" className="my-5 w-4/6 md:w-1/2 lg:w-2/6" />
+      <img
+        src="./logo-white.png"
+        alt="logo"
+        className="my-5 w-4/6 md:w-1/2 lg:w-2/6"
+      />
       <div className="bg-white w-3/4 lg:w-1/2 h-1/2 rounded-lg text-center align-middle">
         <div className="flex flex-col h-full justify-center items-center">
           <div className="uppercase text-5xl lg:text-6xl my-4">Now Serving</div>
