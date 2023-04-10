@@ -40,7 +40,7 @@ export default function Home() {
         alt="logo"
         className="my-5 w-4/6 md:w-1/2 lg:w-2/6"
       />
-      <div className="w-5/6 h-full flex lg:space-x-6 lg:flex-row flex-col">
+      <div className="w-5/6 h-1/2 flex lg:space-x-6 lg:flex-row flex-col">
         <div className="lg:w-3/4 h-full container justify-center">
           <div className="bg-white w-full h-max lg:h-full rounded-lg text-center align-middle">
             <div className="flex flex-col h-full justify-center items-center">
@@ -68,7 +68,7 @@ export default function Home() {
           <div className="bg-white container h-full rounded-lg">
             <div className="text-center uppercase font-medium py-5 text-2xl lg:text-xl">
               Customers in Queue
-              <div className="container px-2 flex flex-wrap font-bold text-6xl mt-4">
+              <div className="container px-2 flex flex-wrap font-bold text-4xl lg:text-6xl mt-4">
                 {renderList}
               </div>
             </div>
