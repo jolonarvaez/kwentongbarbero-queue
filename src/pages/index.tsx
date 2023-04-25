@@ -23,7 +23,7 @@ export default function Home() {
         alt="logo"
         className="my-5 w-4/6 md:w-1/2 lg:w-2/6"
       />
-      <div className="bg-white w-3/4 lg:w-1/2 h-1/2 rounded-lg text-center align-middle">
+      <div className="bg-white w-3/4 lg:w-3/5 h-1/2 rounded-lg text-center align-middle">
         <div className="flex flex-col h-full justify-center items-center">
           <div className="uppercase text-5xl lg:text-6xl my-4">Now Serving</div>
           <div className="font-bold text-8xl lg:text-9xl my-4">
