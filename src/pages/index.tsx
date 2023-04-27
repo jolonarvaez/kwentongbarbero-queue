@@ -25,8 +25,8 @@ export default function Home() {
       />
       <div className="bg-white w-3/4 lg:w-3/5 h-1/2 rounded-lg text-center align-middle">
         <div className="flex flex-col h-full justify-center items-center">
-          <div className="uppercase text-5xl lg:text-6xl my-4">Now Serving</div>
-          <div className="font-bold text-8xl lg:text-9xl my-4">
+          <div className="uppercase text-7xl my-4">Now Serving</div>
+          <div className="font-bold text-9xl my-4">
             {count.toLocaleString("en-US", {
               minimumIntegerDigits: 3,
               useGrouping: false,
