@@ -34,10 +34,12 @@ export default function Home() {
           </div>
           <div className="mx-4">
             <p>
-              <span className="uppercase font-bold">Notice:</span> Please note that if you are not present when your number is called,<br></br> the next number shall be accommodated. You will then be given a new number. <br></br>Thank you for your understanding.
+              <span className="uppercase font-bold">Notice:</span> Please note
+              that if you are not present when your number is called,<br></br>
+              the next number shall be accommodated. You will then be given a
+              new number. <br></br>Thank you for your understanding.
             </p>
           </div>
-          
         </div>
       </div>
       <div className="my-5 grid grid-rows-1 grid-flow-col gap-6 text-xl">
