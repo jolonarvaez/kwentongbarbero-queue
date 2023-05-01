@@ -34,7 +34,7 @@ export default function Home() {
           </div>
           <div className="mx-4">
             <p>
-              <span className="uppercase font-bold">Notice:</span> Please note that if you are not present when your number is called, the next number shall be accommodated. <br></br>You will then be given a new number. <br></br>Thank you for your understanding.
+              <span className="uppercase font-bold">Notice:</span> Please note that if you are not present when your number is called,<br></br> the next number shall be accommodated. You will then be given a new number. <br></br>Thank you for your understanding.
             </p>
           </div>
           
